@@ -1,5 +1,7 @@
 # x_ray_classifier
 
+## For more details about the project, please refer to the slides https://www.canva.com/design/DAGpSdbcWpo/Z0UaYaRaZLsLy8a6xCo9RQ/edit?utm_content=DAGpSdbcWpo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## File details:
 1. classifier.ipynb - contains code of training classification model using yolo11-cls models
 
